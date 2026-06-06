@@ -1,6 +1,7 @@
 # 🤖 AI Job Description Writer
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://your-render-link.onrender.com)
+[![YouTube Demo](https://img.shields.io/badge/YouTube-Demo-red)](https://www.youtube.com/watch?v=3c7CFVxpBTo)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/jasoncl007/AI-Job-Description-Writer)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/muhammad-kamrul-hasan-8048a061/)
@@ -9,6 +10,10 @@
 ## 🚀 AI-powered professional job description generator
 
 Generate professional job descriptions in **30 seconds** using Groq API (Llama 3.3 70B model).
+
+[![Watch Demo](https://img.youtube.com/vi/3c7CFVxpBTo/0.jpg)](https://www.youtube.com/watch?v=3c7CFVxpBTo)
+
+**Click the image above to watch the demo video**
 
 ---
 
@@ -62,6 +67,7 @@ Generate professional job descriptions in **30 seconds** using Groq API (Llama 3
 - 🔗 **LinkedIn:** [Muhammad Kamrul Hasan](https://linkedin.com/in/muhammad-kamrul-hasan-8048a061/)
 - 📧 **Email:** [jasoncl007@gmail.com](mailto:jasoncl007@gmail.com)
 - 🐙 **GitHub:** [jasoncl007](https://github.com/jasoncl007)
+- 🎥 **YouTube Demo:** [Watch on YouTube](https://www.youtube.com/watch?v=3c7CFVxpBTo)
 
 ---
 
